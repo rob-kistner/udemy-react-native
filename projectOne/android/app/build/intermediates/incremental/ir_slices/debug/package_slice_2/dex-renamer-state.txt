@@ -1,0 +1,4 @@
+#Wed Jul 04 10:48:48 CDT 2018
+base.0=/Users/RobK/Documents/htdocs/udemy/react-native/projectOne/android/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex
